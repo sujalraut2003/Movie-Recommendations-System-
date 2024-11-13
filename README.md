@@ -1,4 +1,4 @@
-# Movie-Recommendations-System-
+![Screenshot 2024-11-13 210036](https://github.com/user-attachments/assets/c4f5037d-d580-45c3-b980-94dd8e83fc1f)# Movie-Recommendations-System-
 A movie recommendation system built using Flask and machine learning techniques. The app suggests personalized movie recommendations based on user preferences and behavior. It leverages a pre-trained model and offers a simple interface for users to interact with, providing tailored movie suggestions.
 
 To run and upload your movie recommendation system project to GitHub, follow these steps:
@@ -138,12 +138,12 @@ This project is a movie recommendation system built using Flask and machine lear
    pip install -r requirements.txt
    ```
 
-4. Run the Flask app:
-   ```
-   python app.py
+4. run streamlit
+5. streamlit run app.py
+6. 
    ```
 
-5. Access the application in your browser at `http://127.0.0.1:5000`
+7. Access the application in your browser at `http://127.0.0.1:5000`
 10. Push Your Final Changes
 Once you've updated the README and added any final changes, push them:
 
@@ -152,3 +152,7 @@ Copy code
 git add .
 git commit -m "Add README and final changes"
 git push
+
+
+
+
